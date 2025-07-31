@@ -30,4 +30,9 @@ A visually stunning interactive effect where a green, glowing dragon dynamically
 
 1. **Clone the repo**
 
+## Stay Connected
 
+- 🔗 **Live Project:** https://infosphere-projects.netlify.app/
+- 🌐 **Infosphere Site:** https://infosphere-nexus.netlify.app/ 
+- 👤 **Facebook:** https://www.facebook.com/share/1C55BHgCG7/
+- ▶️ **YouTube Channel:** https://www.youtube.com/@infosphere_nexus
